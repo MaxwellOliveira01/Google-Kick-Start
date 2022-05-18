@@ -2,5 +2,5 @@
 
 <ul>
 <li> Brazil: 5º   </li>
-<li> Global: 374º </li>
+<li> Global: 637º </li>
 </ul>
